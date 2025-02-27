@@ -41,8 +41,6 @@ The project evaluates different classification models, comparing their effective
 ## 📈 Visualization
 The analysis includes interactive visualizations to better understand customer churn trends.
 
----
 
-🚀 **This project is a step toward data-driven customer retention!**
 
 
